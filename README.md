@@ -1,10 +1,10 @@
 # MazeGame
 ## How To Play The Game:
 - Use the arrow keys to move the square!
--- The UP key moves the square up
--- The LEFT key moves the square left
--- The RIGHT key moves the square right
--- The DOWN key moves the square down
+-- The W key moves the square up
+-- The A key moves the square left
+-- The D key moves the square right
+-- The S key moves the square down
 ## Where To Play The Game?
 - Use the following link to play the maze game: https://Final-Project.aryanbhardwaj2.repl.co
 ## Future Plans:
