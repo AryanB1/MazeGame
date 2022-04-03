@@ -5,7 +5,7 @@
 -- The LEFT key moves the square left
 -- The RIGHT key moves the square right
 -- The DOWN key moves the square down
-## Where to play the game?
+## Where To Play The Game?
 - Use the following link to play the maze game: https://Final-Project.aryanbhardwaj2.repl.co
 ## Future Plans:
 - Browser Resizability: Currently the game only functions in a single canvas size option. In a future version I plan on continually checking the size of the browser and adjusting the game window accordingly
