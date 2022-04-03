@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: gainsboro;
+  }
+  
+  canvas {
+    border: 1px solid grey;
+    display: none;
+  }
+  
+  button {
+    background-color: lightblue;
+  }
